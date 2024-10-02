@@ -1,3 +1,3 @@
 # DataStructure-Algorithm
 
-Files listed are records of practicing DSA introdution knowledge on Udemy
+Files listed are some records of practicing DSA introdution knowledge according to Udemy
